@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pastel_background">#F3F8F2</color>
+    <color name="pastel_orange_title">#E8A070</color>
+    <color name="pastel_light_green_header">#D6EFE7</color>
+    <color name="pastel_dark_green_button">#6EA38E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey_text">#333333</color>
+    <color name="welcome_background_start">#FDFBF7</color>
+    <color name="welcome_background_end">#F5F2EE</color>
+    <color name="welcome_teal_text">#588B8C</color>
+    <color name="correct_answer_green">#4CAF50</color>
+    <color name="wrong_answer_red">#F44336</color>
+</resources>
+
