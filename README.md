@@ -1,4 +1,4 @@
-# 🇺🇳 Flags Quiz App
+#  Flags Quiz App
 
 Bu proje, ülkelerin bayraklarını tahmin etmeye dayalı bir quiz oyunudur. Uygulama **Kotlin** dili ile Android Studio kullanılarak geliştirilmiştir. Kullanıcıdan doğru bayrağı seçmesi beklenir, cevaplara göre puanlama yapılır ve sonuç ekranı gösterilir.
 
