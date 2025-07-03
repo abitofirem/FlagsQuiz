@@ -4,6 +4,7 @@ Bu proje, ülkelerin bayraklarını tahmin etmeye dayalı bir quiz oyunudur. Uyg
 
 ## 📱 Ekran Görüntüsü
 
+![Splash Screen](https://github.com/user-attachments/assets/424770bc-bc67-43af-86e9-b3babb124774)
 
 
 ---
